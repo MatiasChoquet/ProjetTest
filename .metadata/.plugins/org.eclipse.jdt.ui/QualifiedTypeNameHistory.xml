@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="test_fonctionnel.testGaulois"/>
     <fullyQualifiedTypeName name="personnage.Gaulois"/>
+    <fullyQualifiedTypeName name="personnage.Village"/>
+    <fullyQualifiedTypeName name="object.CASQUE"/>
+    <fullyQualifiedTypeName name="object.Equipement"/>
+    <fullyQualifiedTypeName name="personnages.humains"/>
 </qualifiedTypeNameHistroy>
